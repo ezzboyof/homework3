@@ -2,6 +2,7 @@ package homework3.task_6;
 
 import java.util.Arrays;
 
+// форматируй код
 public class Task_6 {
     public static void main(String[] args) {
         int[] arrayNumber = {2, 1, 3, 5, 4, 7, 8, 13, 14};
